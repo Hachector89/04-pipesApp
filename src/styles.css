@@ -1,0 +1,10 @@
+
+html, body {
+    margin: 10px;
+    background-color: var(--surface-b);
+    font-family:  var(--font-family);   /* You can add global styles to this file, and also import other style files */
+}
+
+.text-layout {
+    color: var(--text-color);
+}
